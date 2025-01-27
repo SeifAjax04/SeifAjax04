@@ -4,7 +4,7 @@ I'm a **Data Analyst** and a passionate **Bug Bounty Hunter** with a knack for u
 
 - 🔍 **Bug Bounty Hunter**: Finding security vulnerabilities and making the internet a safer place.
 - 📊 **Data Analyst**: Turning raw data into actionable insights with Python, SQL, and visualization tools.
-- 🌱 **Currently Learning**: Advanced machine learning, ethical hacking techniques, and cloud computing.
+- 🌱 **Currently Learning**: Advanced machine learning, ethical hacking techniques.
 - 💡 **Interests**: Cybersecurity, Data Science, and Open-Source contributions.
 
 ---
@@ -29,6 +29,6 @@ I'm a **Data Analyst** and a passionate **Bug Bounty Hunter** with a knack for u
 ---
 
 ## 📫 Let's Connect
-- 🌐 [My Portfolio](#) *(Add your portfolio link here)*
-- 🐦 [Twitter](https://twitter.com/yourusername) *(Add your Twitter link)*
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername) *(Add your LinkedIn link)*
+- 🌐 [My Portfolio](#) 
+- 🐦 [Twitter](https://twitter.com/yourusername)
+- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
