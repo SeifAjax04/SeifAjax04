@@ -11,7 +11,7 @@ I'm a **Data Analyst** and a passionate **Bug Bounty Hunter** with a knack for u
 
 ## 🛠️ Tools & Technologies I Use
 
-- **Programming Languages**: Python, SQL, Bash
+- **Programming Languages**: Python
 - **Data Tools**: Pandas, NumPy, Matplotlib, Power BI, Tableau
 - **Security Tools**: Burp Suite, OWASP ZAP, Recon-ng, Nmap
 - **Other Skills**: Data cleaning, analysis, and reporting | Vulnerability assessments and penetration testing
