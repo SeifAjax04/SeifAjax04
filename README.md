@@ -22,6 +22,8 @@ I'm a **Data Analyst** and a passionate **Bug Bounty Hunter** with a knack for u
 
 [![Seif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seifajax04&rank_icon=github)](https://github.com/seifajax04)
 
+[![Seif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seifajax04&rank_icon=github&theme=dracula)](https://github.com/seifajax04)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seifajax04&layout=compact&theme=radical)
 
 [![Seif's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seifajax04&theme=react-dark)](https://github.com/seifajax04/github-readme-activity-graph)
