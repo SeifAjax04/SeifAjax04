@@ -30,6 +30,6 @@ I'm a **Data Analyst** and a passionate **Bug Bounty Hunter** with a knack for u
 ---
 
 ## 📫 Let's Connect
-- 🌐 [My Portfolio](#) 
-- 🐦 [Twitter](https://twitter.com/yourusername)
+- 🌐 [My Portfolio](www.seifkhaled.me) 
+- 🐦 [Twitter](https://twitter.com/seifajax04)
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)
