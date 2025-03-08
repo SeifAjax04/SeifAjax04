@@ -24,9 +24,6 @@ I'm a **Data Analyst** and a passionate **Bug Bounty Hunter** with a knack for u
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seifajax04&layout=compact&theme=dracula)](https://github.com/seifajax04)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=seifajax04&theme=dark)](https://github.com/seifajax04)
-
-
 ---
 
 ## 📫 Let's Connect
