@@ -1,20 +1,31 @@
 # 👋 Hi there, I'm Seif!
 
-I'm a **Data Analyst** and a passionate **Bug Bounty Hunter** with a knack for uncovering patterns in data and vulnerabilities in systems. Here's a bit about me:
+I'm a **Football Data Analyst**, **Player Performance Analyst**, and passionate about **Scouting** — blending my love for football and data to deliver insights and discover hidden talents.
 
-- 🔍 **Bug Bounty Hunter**: Finding security vulnerabilities and making the internet a safer place.
-- 📊 **Data Analyst**: Turning raw data into actionable insights with Python, SQL, and visualization tools.
-- 🌱 **Currently Learning**: Advanced machine learning, ethical hacking techniques.
-- 💡 **Interests**: Cybersecurity, Data Science, and Open-Source contributions.
+## ⚽ About Me
+
+- 📊 **Football Data Analyst & Player Performance Analyst**: Analyzing player and team performance, building data-driven reports, and supporting clubs and scouts with actionable insights.
+- 🔍 **Scouting**: Evaluating players’ strengths and potential through data and video analysis.
+- 🎓 **Certified**: Holder of professional certificates from **PFSA** (Professional Football Scouts Association) and **The FA** (The Football Association).
+- 🧑‍💻 **Data Analyst**: Turning raw football data into clear, impactful stories using Python, SQL, and modern visualization tools.
+- 🌱 **Currently Learning**: Advanced football analytics, machine learning for sports, and new scouting methodologies.
+- 💡 **Interests**: Football performance analysis, talent identification, sports data science, and open-source football projects.
 
 ---
 
 ## 🛠️ Tools & Technologies I Use
 
 - **Programming Languages**: Python
-- **Data Tools**: Pandas, NumPy, Matplotlib, Power BI, Tableau
-- **Security Tools**: Burp Suite, OWASP ZAP, Recon-ng, Nmap
-- **Other Skills**: Data cleaning, analysis, and reporting | Vulnerability assessments and penetration testing
+- **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
+- **Football Analytics**: Wyscout, InStat, StatsBomb (where available)
+- **Other Skills**: Data cleaning, match data analysis, performance reporting, scouting reports
+
+---
+
+## 📜 Certifications
+
+- ✅ **PFSA**: Certified in Talent Identification & Scouting
+- ✅ **The FA**: Certified in relevant football courses
 
 ---
 
@@ -27,6 +38,13 @@ I'm a **Data Analyst** and a passionate **Bug Bounty Hunter** with a knack for u
 ---
 
 ## 📫 Let's Connect
-- 🌐 [My Portfolio]() 
+
+- 🌐 [My Portfolio]()
 - 🐦 [Twitter](https://twitter.com/)
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+
+---
+
+## ⚽ Extra
+
+> 📌 *Always open to collaborating on football analytics projects, player performance analysis, or scouting tasks. Feel free to reach out!*
