@@ -17,7 +17,6 @@ I'm a **Football Data Analyst**, **Player Performance Analyst**, and passionate 
 
 - **Programming Languages**: Python
 - **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
-- **Football Analytics**: Wyscout, InStat, StatsBomb (where available)
 - **Other Skills**: Data cleaning, match data analysis, performance reporting, scouting reports
 
 ---
