@@ -19,9 +19,7 @@ I'm a **Data Analyst** passionate about turning raw data into clear, impactful s
 ---
 
 ## 📈 GitHub Stats
-![seifajax04's Stats](https://github-readme-stats.vercel.app/api?username=seifajax04&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-![seifajax04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seifajax04&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-
+![seifajax04's Stats]![GitHub Streak](https://streak-stats.demolab.com?user=seifajax04&theme=dracula&hide_border=true)
 ---
 
 ## 📫 Let's Connect
