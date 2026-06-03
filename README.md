@@ -19,7 +19,7 @@ I'm a **Data Analyst** passionate about turning raw data into clear, impactful s
 ---
 
 ## 📈 GitHub Stats
-![seifajax04's Stats]![GitHub Streak](https://streak-stats.demolab.com?user=seifajax04&theme=dracula&hide_border=true)
+![seifajax04's Stats]
 ---
 
 ## 📫 Let's Connect
